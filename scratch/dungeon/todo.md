@@ -26,3 +26,4 @@
 * scratch screen size: 480 x 360
   * quante tileset da 32x32 devo fare ?
 * tileset cutter: https://0x72.itch.io/tilesetssplitter
+* download tilesets: https://opengameart.org/art-search-advanced
